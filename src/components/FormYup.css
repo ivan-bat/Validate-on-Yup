@@ -1,0 +1,21 @@
+.btn {
+	height: 30px;
+	padding: 0 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #cfd5e0;
+	border: 0;
+	width: 100%;
+	outline: 0;
+	color: #050000;
+	cursor: pointer;
+	outline: 2px solid rgb(10, 221, 10);
+}
+
+.page {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
